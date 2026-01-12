@@ -1,0 +1,415 @@
+{
+  "ano2026": [
+    {
+      "janeiro": [
+        {
+          "evento": "Rolex 24 At Daytona",
+          "data": "2026-01-24 15:40:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Daytona International Speedway",
+          "link": "https://www.imsa.com/events/2026-rolex-24-at-daytona/",
+					"image": "https://www.imsa.com/wp-content/uploads/sites/32/2025/03/10/2026_IWSC_Rolex24_GTP_1500x600.jpg"
+        }
+      ],
+      "março": [
+        {
+          "evento": "Grande Prêmio da Austrália",
+          "data": "2026-03-08 01:00:00",
+          "categoria": "F1",
+          "local": "🇦🇺",
+          "circuito": "Circuito de Melbourne",
+          "link": "https://www.formula1.com/en/racing/2026/australia",
+					"image": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/common/f1/2026/track/2026trackmelbournedetailed.webp"
+        },
+        {
+          "evento": "Grande Prêmio da China",
+          "data": "2026-03-15 04:00:00",
+          "categoria": "F1",
+          "local": "🇨🇳",
+          "circuito": "Circuito Internacional de Xangai",
+          "link": "https://www.formula1.com/en/racing/2026/china",
+					"image": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/China.webp"
+        },
+        {
+          "evento": "Mobil 1 12h of Sebring",
+          "data": "2026-03-21 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Sebring International Raceway",
+          "link": "https://www.imsa.com/events/2026-sebring-international-raceway/",
+					"image": "https://www.imsa.com/wp-content/uploads/sites/32/2025/03/18/03182025_IWSC_GTP_1500x600.jpg"
+        },
+        {
+          "evento": "Qatar 1812 Km",
+          "data": "2026-03-28 00:00:00",
+          "categoria": "WEC",
+          "local": "🇶🇦",
+          "circuito": "Lusail International Circuit",
+          "link": "https://www.fiawec.com/en/race/show/4947",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio do Japão",
+          "data": "2026-03-29 02:00:00",
+          "categoria": "F1",
+          "local": "🇯🇵",
+          "circuito": "Circuito de Suzuka",
+          "link": "https://www.formula1.com/en/racing/2026/japan",
+					"image": ""
+        }
+      ],
+      "abril": [
+        {
+          "evento": "Grande Prêmio do Bahrein",
+          "data": "2026-04-12 12:00:00",
+          "categoria": "F1",
+          "local": "🇧🇭",
+          "circuito": "Circuito Internacional do Bahrein",
+          "link": "https://www.formula1.com/en/racing/2026/bahrain",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Arábia Saudita",
+          "data": "2026-04-19 14:00:00",
+          "categoria": "F1",
+          "local": "🇸🇦",
+          "circuito": "Circuito de Jeddah-Corniche",
+          "link": "https://www.formula1.com/en/racing/2026/saudi-arabia",
+					"image": ""
+        },
+        {
+          "evento": "6 Hours of Imola",
+          "data": "2026-04-19 00:00:00",
+          "categoria": "WEC",
+          "local": "🇮🇹",
+          "circuito": "Autodromo Enzo e Dino Ferrari",
+          "link": "https://www.fiawec.com/en/race/show/4948",
+					"image": ""
+        },
+        {
+          "evento": "Acura Grand Prix of Long Beach",
+          "data": "2026-04-18 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Long Beach Street Circuit",
+          "link": "https://www.imsa.com/events/2026-long-beach-street-circuit",
+					"image": ""
+        }
+      ],
+      "maio": [
+        {
+          "evento": "Grande Prêmio de Miami",
+          "data": "2026-05-03 17:00:00",
+          "categoria": "F1",
+          "local": "🇺🇸",
+          "circuito": "Autódromo Internacional de Miami",
+          "link": "https://www.formula1.com/en/racing/2026/miami",
+					"image": ""
+        },
+        {
+          "evento": "WeatherTech Raceway Laguna Seca",
+          "data": "2026-05-03 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Laguna Seca",
+          "link": "https://www.imsa.com/events/2026-weathertech-raceway-laguna-seca/",
+					"image": ""
+        },
+        {
+          "evento": "6h of Spa-Francorchamps",
+          "data": "2026-05-09 00:00:00",
+          "categoria": "WEC",
+          "local": "🇧🇪",
+          "circuito": "Circuito de Spa-Francorchamps",
+          "link": "https://www.fiawec.com/en/race/show/4949",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio do Canadá",
+          "data": "2026-05-24 17:00:00",
+          "categoria": "F1",
+          "local": "🇨🇦",
+          "circuito": "Circuito Gilles Villeneuve",
+          "link": "https://www.formula1.com/en/racing/2026/canada",
+					"image": ""
+        },
+        {
+          "evento": "Chevrolet Detroit Grand Prix",
+          "data": "2026-05-30 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Streets of Detroit",
+          "link": "https://www.imsa.com/events/2026-detroit-street-circuit/",
+					"image": ""
+        }
+      ],
+      "junho": [
+        {
+          "evento": "Grande Prêmio de Mônaco",
+          "data": "2026-06-07 10:00:00",
+          "categoria": "F1",
+          "local": "🇲🇨",
+          "circuito": "Circuito de Monte Carlo",
+          "link": "https://www.formula1.com/en/racing/2026/monaco",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Espanha (Barcelona)",
+          "data": "2026-06-14 10:00:00",
+          "categoria": "F1",
+          "local": "🇪🇸",
+          "circuito": "Circuito de Barcelona-Catalunha",
+          "link": "https://www.formula1.com/en/racing/2026/spain",
+					"image": ""
+        },
+        {
+          "evento": "24 Hours of Le Mans",
+          "data": "2026-06-13 00:00:00",
+          "categoria": "WEC",
+          "local": "🇫🇷",
+          "circuito": "Circuito de la Sarthe",
+          "link": "https://www.fiawec.com/en/race/show/4951",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Áustria",
+          "data": "2026-06-28 10:00:00",
+          "categoria": "F1",
+          "local": "🇦🇹",
+          "circuito": "Circuito de Spielberg",
+          "link": "https://www.formula1.com/en/racing/2026/austria",
+					"image": ""
+        },
+        {
+          "evento": "Sahlen's Six Hours of The Glen",
+          "data": "2026-06-28 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Watkins Glen International",
+          "link": "https://www.imsa.com/events/2026-watkins-glen-international",
+					"image": ""
+        }
+      ],
+      "julho": [
+        {
+          "evento": "Grande Prêmio da Grã-Bretanha",
+          "data": "2026-07-05 11:00:00",
+          "categoria": "F1",
+          "local": "🇬🇧",
+          "circuito": "Circuito de Silverstone",
+          "link": "https://www.formula1.com/en/racing/2026/great-britain",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Bélgica",
+          "data": "2026-07-19 10:00:00",
+          "categoria": "F1",
+          "local": "🇧🇪",
+          "circuito": "Circuito de Spa-Francorchamps",
+          "link": "https://www.formula1.com/en/racing/2026/belgium",
+					"image": ""
+        },
+        {
+          "evento": "6 Hours of São Paulo",
+          "data": "2026-07-12 00:00:00",
+          "categoria": "WEC",
+          "local": "🇧🇷",
+          "circuito": "Autódromo de Interlagos",
+          "link": "https://www.fiawec.com/en/race/show/4952",
+					"image": ""
+        },
+        {
+          "evento": "Chevrolet Grand Prix",
+          "data": "2026-07-12 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇨🇦",
+          "circuito": "Canadian Tire Motorsport Park",
+          "link": "https://www.imsa.com/events/2026-canadian-tire-motorsport-park/",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Hungria",
+          "data": "2026-07-26 10:00:00",
+          "categoria": "F1",
+          "local": "🇭🇺",
+          "circuito": "Circuito de Hungaroring",
+          "link": "https://www.formula1.com/en/racing/2026/hungary",
+					"image": ""
+        }
+      ],
+      "agosto": [
+        {
+          "evento": "Motul SportsCar Endurance Grand Prix (Road America)",
+          "data": "2026-08-02 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Road America",
+          "link": "https://www.imsa.com/events/2026-road-america/",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio dos Países Baixos",
+          "data": "2026-08-23 10:00:00",
+          "categoria": "F1",
+          "local": "🇳🇱",
+          "circuito": "Circuito de Zandvoort",
+          "link": "https://www.formula1.com/en/racing/2026/netherlands",
+					"image": ""
+        },
+        {
+          "evento": "Michelin GT Challenge at VIR",
+          "data": "2026-08-23 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Virginia International Raceway",
+          "link": "https://www.imsa.com/events/2026-virginia-international-raceway",
+					"image": ""
+        }
+      ],
+      "setembro": [
+        {
+          "evento": "Grande Prêmio da Itália",
+          "data": "2026-09-06 10:00:00",
+          "categoria": "F1",
+          "local": "🇮🇹",
+          "circuito": "Autódromo de Monza",
+          "link": "https://www.formula1.com/en/racing/2026/italy",
+					"image": ""
+        },
+        {
+          "evento": "Lone Star Le Mans (Austin)",
+          "data": "2026-09-06 00:00:00",
+          "categoria": "WEC",
+          "local": "🇺🇸",
+          "circuito": "Circuit of The Americas",
+          "link": "https://www.fiawec.com/en/race/show/4953",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Espanha (Madrid)",
+          "data": "2026-09-13 10:00:00",
+          "categoria": "F1",
+          "local": "🇪🇸",
+          "circuito": "Circuito de Madring",
+          "link": "https://www.formula1.com/en/racing/2026/spain",
+					"image": ""
+        },
+        {
+          "evento": "TireRack.com Battle on the Bricks",
+          "data": "2026-09-20 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Indianapolis Motor Speedway",
+          "link": "https://www.imsa.com/events/2026-indianapolis-motor-speedway/",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio do Azerbaijão",
+          "data": "2026-09-26 08:00:00",
+          "categoria": "F1",
+          "local": "🇦🇿",
+          "circuito": "Circuito de Baku",
+          "link": "https://www.formula1.com/en/racing/2026/azerbaijan",
+					"image": ""
+        },
+        {
+          "evento": "6 Hours of Fuji",
+          "data": "2026-09-27 00:00:00",
+          "categoria": "WEC",
+          "local": "🇯🇵",
+          "circuito": "Fuji International Speedway",
+          "link": "https://www.fiawec.com/en/race/show/4954",
+					"image": ""
+        }
+      ],
+      "outubro": [
+        {
+          "evento": "Motul Petit Le Mans",
+          "data": "2026-10-03 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Michelin Raceway Road Atlanta",
+          "link": "https://www.imsa.com/events/2026-michelin-raceway-road-atlanta/",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio de Singapura",
+          "data": "2026-10-11 09:00:00",
+          "categoria": "F1",
+          "local": "🇸🇬",
+          "circuito": "Circuito de Marina Bay",
+          "link": "https://www.formula1.com/en/racing/2026/singapore",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio dos Estados Unidos",
+          "data": "2026-10-25 17:00:00",
+          "categoria": "F1",
+          "local": "🇺🇸",
+          "circuito": "Circuit of The Americas",
+          "link": "https://www.formula1.com/en/racing/2026/united-states",
+					"image": ""
+        }
+      ],
+      "novembro": [
+        {
+          "evento": "Grande Prêmio da Cidade do México",
+          "data": "2026-11-01 17:00:00",
+          "categoria": "F1",
+          "local": "🇲🇽",
+          "circuito": "Autódromo Hermanos Rodríguez",
+          "link": "https://www.formula1.com/en/racing/2026/mexico",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio de São Paulo",
+          "data": "2026-11-08 14:00:00",
+          "categoria": "F1",
+          "local": "🇧🇷",
+          "circuito": "Autódromo José Carlos Pace",
+          "link": "https://www.formula1.com/en/racing/2026/brazil",
+					"image": ""
+        },
+        {
+          "evento": "8 Hours of Bahrain",
+          "data": "2026-11-07 00:00:00",
+          "categoria": "WEC",
+          "local": "🇧🇭",
+          "circuito": "Bahrain International Circuit",
+          "link": "https://www.fiawec.com/en/race/show/4955",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio de Las Vegas",
+          "data": "2026-11-08 01:00:00",
+          "categoria": "F1",
+          "local": "🇺🇸",
+          "circuito": "Circuito de Las Vegas Strip",
+          "link": "https://www.formula1.com/en/racing/2026/las-vegas",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio do Catar",
+          "data": "2026-11-08 13:00:00",
+          "categoria": "F1",
+          "local": "🇶🇦",
+          "circuito": "Circuito Internacional de Lusail",
+          "link": "https://www.formula1.com/en/racing/2026/qatar",
+					"image": ""
+        }
+      ],
+      "dezembro": [
+        {
+          "evento": "Grande Prêmio de Abu Dhabi",
+          "data": "2026-12-06 10:00:00",
+          "categoria": "F1",
+          "local": "🇦🇪",
+          "circuito": "Circuito Yas Marina",
+          "link": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
+					"image": ""
+        }
+      ]
+    }
+  ]
+}

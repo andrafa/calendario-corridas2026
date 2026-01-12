@@ -1,0 +1,101 @@
+body {
+	background-color: #0c0c0c;
+	font-family: 'Sora', sans-serif;
+	color: #fff;
+}
+
+.arb-titulo span {
+	background: chartreuse;
+	color: #133a0d;
+	font-style: italic;
+}
+
+.corrida-wrap {
+	background: linear-gradient(to top, rgba(0, 0, 0, .5) 40%,
+		rgba(0, 0, 0, .2) 80%), var(--bg-image);
+	background-color: #272727;
+	background-size: cover;
+	background-position: bottom;
+	padding: 1.5rem;
+	border-radius: 16px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 25vh;
+	aspect-ratio: 4/5;
+	overflow: hidden;
+}
+
+/* Corrida encerrada */
+.corrida-wrap.encerrada {
+	filter: saturate(0%);
+	border: 3px dotted #f2f2f2;
+	opacity: .3;
+	transition: all 300ms ease-in;
+}
+.corrida-wrap.encerrada:hover {
+	filter: saturate(80%);
+	opacity: 1;
+}
+
+a { 
+	cursor: pointer;
+	text-decoration: none;
+	color: #fff;
+}
+a:hover { opacity: .8; color: chartreuse; text-decoration: underline;}
+
+.corrida-wrap:hover {
+	background-color: rgba(0, 0, 0,.8);
+}
+.corrida-wrap h4 {
+	font-size: 2rem;
+	line-height: 1;
+	font-weight: bold;
+}
+
+.corrida-info {
+	color: #fff
+}
+.corrida-info p {
+	background-color: chartreuse;
+	color: black;
+	display: inline;
+}
+.corrida-data h1 {
+	font-size: 2rem;
+	line-height: 1;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.corrida-data span {
+	font-weight: normal;
+	text-transform: inherit;
+}
+
+.cab {
+	margin-bottom: 1.5rem;
+	gap: .875rem;
+}
+.cab p {
+	font-size: 1rem;
+	margin-bottom: 0;
+}
+
+.grid-display {
+	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+	gap: 1rem;
+	margin-top: 1.25rem;
+	margin-bottom: 3rem;
+}
+
+.corrida-encerrada {
+	filter: saturate(0);
+	border: 4px dotted #d2d2d2;
+	opacity: .5;
+}
+span.badge {
+	font-size: 1rem;
+	font-weight: normal;
+	vertical-align: middle;
+}
