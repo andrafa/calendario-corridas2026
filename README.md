@@ -1,2 +1,5 @@
-# calendario-corridas2026
-Calendário de corridas 2026 (F1, IMSA e WEC)
+# Calendário de Corridas 2026
+
+Um calendário das principais competições de automobilismo do ano de 2026: **Fórmula 1 (F1)**, **IMSA** e **WEC**.
+
+

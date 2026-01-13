@@ -4,6 +4,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<!-- Favicon -->
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+	<link rel="manifest" href="favicon/site.webmanifest">
+
 	<!-- Google Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,27 +26,34 @@
 </head>
 <body>
 	<div class="header">
-		<div class="container">
+		<div class="container cabecalho">
 			<h1 class="mb-5 arb-titulo py-5"><strong>Calendário</strong> <br><span>F1, IMSA, WEC</span> <br><strong>2026</strong></h1>
+			<p style="font-size: .75rem;font-weight: lighter;background-color: black;font-style: italic;">Foto de <a href="https://unsplash.com/pt-br/@xaphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Xavier Praillet</a> na <a href="https://unsplash.com/pt-br/fotografias/XqNqjgwj-jA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      </p>
 		</div>
 	</div>
 
 	<div class="container mt-5">
-
 		<div class="mesdiv"></div>
-		<table class="table table-hover">
-			<thead>
-				<tr>
-					<th>Categoria</th>
-					<th>Evento</th>
-					<th>Circuito</th>
-					<th>Data</th>
-					<th>-</th>
-				</tr>
-			</thead>
-			<tbody class="corpoTabela"></tbody>
-		</table>
 	</div>
+
+	<footer>
+		<div class="container">
+			<div class="ropade text-center py-5">
+				<h3>Calendário <br><strong>Corridas 2026</strong></h3>
+				<p class="mb-4">Dados extraídos de sites oficiais das categorias. <br>Imagens, logos e marcas são de propriedade das respectivas categorias.</p>
+
+
+				<div class="documentos mb-3">
+					<a class="btn btn-outline-light btn-sm" href="src/docs/calendario-corridas26.xlsx" download=""><i class="bi bi-filetype-ppt"></i> Baixar PPT</a>
+					<a class="btn btn-outline-light btn-sm" href="src/docs/calendario-corridas26.pdf" download=""><i class="bi bi-filetype-pdf"></i> Baixar PDF</a>
+				</div>
+
+				<p>Desenvolvido por Anderson Rafael <a href="https://github.com/andrafa"><strong>@andrafa</strong></a></p>
+
+			</div>
+		</div>
+	</footer>
 
 <script src="src/js/main.js"></script>
 </body>
