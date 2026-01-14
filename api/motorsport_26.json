@@ -155,7 +155,7 @@
 					"image": ""
         },
         {
-          "evento": "Grande Prêmio da Espanha (Barcelona)",
+          "evento": "Grande Prêmio da Espanha",
           "data": "2026-06-14 10:00:00",
           "categoria": "F1",
           "local": "🇪🇸",
@@ -164,7 +164,7 @@
 					"image": ""
         },
         {
-          "evento": "24 Hours of Le Mans",
+          "evento": "24h of Le Mans",
           "data": "2026-06-13 00:00:00",
           "categoria": "WEC",
           "local": "🇫🇷",
@@ -182,7 +182,7 @@
 					"image": ""
         },
         {
-          "evento": "Sahlen's Six Hours of The Glen",
+          "evento": "Sahlen's 6h of The Glen",
           "data": "2026-06-28 00:00:00",
           "categoria": "IMSA",
           "local": "🇺🇸",
@@ -211,7 +211,7 @@
 					"image": ""
         },
         {
-          "evento": "6 Hours of São Paulo",
+          "evento": "6h of São Paulo",
           "data": "2026-07-12 00:00:00",
           "categoria": "WEC",
           "local": "🇧🇷",
@@ -240,7 +240,7 @@
       ],
       "agosto": [
         {
-          "evento": "Motul SportsCar Endurance Grand Prix (Road America)",
+          "evento": "Motul SportsCar Endurance Grand Prix",
           "data": "2026-08-02 00:00:00",
           "categoria": "IMSA",
           "local": "🇺🇸",
@@ -258,7 +258,7 @@
 					"image": ""
         },
         {
-          "evento": "Michelin GT Challenge at VIR",
+          "evento": "Michelin GT Challenge",
           "data": "2026-08-23 00:00:00",
           "categoria": "IMSA",
           "local": "🇺🇸",
@@ -296,7 +296,7 @@
 					"image": ""
         },
         {
-          "evento": "TireRack.com Battle on the Bricks",
+          "evento": "TireRack Battle on the Bricks",
           "data": "2026-09-20 00:00:00",
           "categoria": "IMSA",
           "local": "🇺🇸",
@@ -354,7 +354,7 @@
       ],
       "novembro": [
         {
-          "evento": "Grande Prêmio da Cidade do México",
+          "evento": "Grande Prêmio Cidade do México",
           "data": "2026-11-01 17:00:00",
           "categoria": "F1",
           "local": "🇲🇽",
@@ -372,7 +372,7 @@
 					"image": ""
         },
         {
-          "evento": "8 Hours of Bahrain",
+          "evento": "8h of Bahrain",
           "data": "2026-11-07 00:00:00",
           "categoria": "WEC",
           "local": "🇧🇭",

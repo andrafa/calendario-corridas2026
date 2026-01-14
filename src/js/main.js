@@ -63,7 +63,7 @@ fetch('api/motorsport_26.json')
 			mesDiv.innerHTML += `
 			<div><h3 class="titulo-mes">${mes} <span class="badge rounded-pill text-bg-info" style="">${corridas.length}</span></h3></div>
 			<div class="d-grid grid-display">
-				${corridas.map(corrida => `<div class="corrida-wrap ${corridaEncerrda(corrida.data)}" style="--cor-categoria: ${corCategoria(corrida.categoria)};"><div class="cab d-flex justify-content-between align-items-start"><div class="corrida-info"><h4>${corrida.evento}</h4><p>${corrida.local} ${corrida.circuito}</p></div><img src="${logoCategoria(corrida.categoria)}" alt="" width="80"></div><a href="${corrida.link}" target="_blank"><div class="corrida-data d-flex justify-content-between align-items-end"><h1>${diaCorrida(corrida.data)} <br>${mesCorrida(corrida.data)} <br><span>${horaCorrida(corrida.data)}</span></h1><h1>→</h1></div></div></a>`).join('')}
+				${corridas.map(corrida => `<div class="corrida-wrap ${corridaEncerrda(corrida.data)}" style="--cor-categoria: ${corCategoria(corrida.categoria)};"><div class="cab"><img class="mb-4" src="${logoCategoria(corrida.categoria)}" alt="" width="80"><div class="corrida-info"><h2>${corrida.evento}</h2><p>${corrida.local} ${corrida.circuito}</p></div></div><a href="${corrida.link}" target="_blank"><div class="corrida-data d-flex justify-content-between align-items-end"><h1>${diaCorrida(corrida.data)} <br>${mesCorrida(corrida.data)} <br><span>${horaCorrida(corrida.data)}</span></h1><h1>→</h1></div></div></a>`).join('')}
 			</div>
 			`});
 
