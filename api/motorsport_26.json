@@ -70,6 +70,15 @@
 					"image": ""
         },
         {
+          "evento": "Acura Grand Prix of Long Beach",
+          "data": "2026-04-18 00:00:00",
+          "categoria": "IMSA",
+          "local": "🇺🇸",
+          "circuito": "Long Beach Street Circuit",
+          "link": "https://www.imsa.com/events/2026-long-beach-street-circuit",
+					"image": ""
+        },
+        {
           "evento": "Grande Prêmio da Arábia Saudita",
           "data": "2026-04-19 14:00:00",
           "categoria": "F1",
@@ -86,15 +95,6 @@
           "circuito": "Autodromo Enzo e Dino Ferrari",
           "link": "https://www.fiawec.com/en/race/show/4948",
 					"image": "https://storage.googleapis.com/ecm-prod/assets/1/course/4948/logo-calendrier-imola_7368de.png"
-        },
-        {
-          "evento": "Acura Grand Prix of Long Beach",
-          "data": "2026-04-18 00:00:00",
-          "categoria": "IMSA",
-          "local": "🇺🇸",
-          "circuito": "Long Beach Street Circuit",
-          "link": "https://www.imsa.com/events/2026-long-beach-street-circuit",
-					"image": ""
         }
       ],
       "maio": [
@@ -155,12 +155,12 @@
 					"image": ""
         },
         {
-          "evento": "Grande Prêmio da Espanha",
-          "data": "2026-06-14 10:00:00",
+          "evento": "Grande Premio de Barcelona-Catalunya",
+          "data": "2026-09-14 10:00:00",
           "categoria": "F1",
           "local": "🇪🇸",
           "circuito": "Circuito de Barcelona-Catalunha",
-          "link": "https://www.formula1.com/en/racing/2026/spain",
+          "link": "https://www.formula1.com/en/racing/2026/barcelona-catalunya",
 					"image": ""
         },
         {
@@ -202,15 +202,6 @@
 					"image": ""
         },
         {
-          "evento": "Grande Prêmio da Bélgica",
-          "data": "2026-07-19 10:00:00",
-          "categoria": "F1",
-          "local": "🇧🇪",
-          "circuito": "Circuito de Spa-Francorchamps",
-          "link": "https://www.formula1.com/en/racing/2026/belgium",
-					"image": ""
-        },
-        {
           "evento": "6h of São Paulo",
           "data": "2026-07-12 00:00:00",
           "categoria": "WEC",
@@ -226,6 +217,15 @@
           "local": "🇨🇦",
           "circuito": "Canadian Tire Motorsport Park",
           "link": "https://www.imsa.com/events/2026-canadian-tire-motorsport-park/",
+					"image": ""
+        },
+        {
+          "evento": "Grande Prêmio da Bélgica",
+          "data": "2026-07-19 10:00:00",
+          "categoria": "F1",
+          "local": "🇧🇪",
+          "circuito": "Circuito de Spa-Francorchamps",
+          "link": "https://www.formula1.com/en/racing/2026/belgium",
 					"image": ""
         },
         {
@@ -382,7 +382,7 @@
         },
         {
           "evento": "Grande Prêmio de Las Vegas",
-          "data": "2026-11-08 01:00:00",
+          "data": "2026-11-22 01:00:00",
           "categoria": "F1",
           "local": "🇺🇸",
           "circuito": "Circuito de Las Vegas Strip",
@@ -391,7 +391,7 @@
         },
         {
           "evento": "Grande Prêmio do Catar",
-          "data": "2026-11-08 13:00:00",
+          "data": "2026-11-29 13:00:00",
           "categoria": "F1",
           "local": "🇶🇦",
           "circuito": "Circuito Internacional de Lusail",
