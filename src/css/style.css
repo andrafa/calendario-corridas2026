@@ -57,14 +57,14 @@ body {
 .corrida-wrap:hover {
   opacity: 0.9;
 }
-.corrida.encerrada {
+.corrida-wrap.encerrada {
   filter: saturate(0%);
   border: 3px dotted #f2f2f2;
   opacity: 0.2;
   transition: all 300ms ease-in;
   background-color: #000;
 }
-.corrida.encerrada:hover {
+.corrida-wrap.encerrada:hover {
   filter: saturate(80%);
   opacity: 1;
   background-color: initial;
